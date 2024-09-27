@@ -1,0 +1,5 @@
+@import './global.css';
+
+.form-container .form-box {
+    margin-top: 20px;
+}
