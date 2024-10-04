@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2023-12-25",
+    "place": "Grocery Store",
+    "amount": 123.45
+  },
+  {
+    "date": "2024-01-10",
+    "place": "Restaurant",
+    "amount": 56.78
+  },
+  {
+    "date": "2024-02-15",
+    "place": "Clothing Store",
+    "amount": 98.76
+  },
+  {
+    "date": "2024-03-20",
+    "place": "Electronics Store",
+    "amount": 34.56
+  },
+  {
+    "date": "2024-04-25",
+    "place": "Bookstore",
+    "amount": 78.90
+  },
+  {
+    "date": "2024-05-30",
+    "place": "Hardware Store",
+    "amount": 23.45
+  },
+  {
+    "date": "2024-06-15",
+    "place": "Gas Station",
+    "amount": 67.89
+  },
+  {
+    "date": "2024-07-20",
+    "place": "Pharmacy",
+    "amount": 12.34
+  },
+  {
+    "date": "2024-08-25",
+    "place": "Grocery Store",
+    "amount": 56.78
+  },
+  {
+    "date": "2024-09-30",
+    "place": "Restaurant",
+    "amount": 98.76
+  }
+]

@@ -11,7 +11,7 @@ const Login = () => {
   const handleLogin = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch(`http://localhost:8080/api/v1/users/login?email=${email}&password=${password}`, {
+      const response = await fetch(`https://finbuddyspringbootwithmongo.onrender.com/api/v1/users/login?email=${email}&password=${password}`, {
         method: 'POST',
       });
 
